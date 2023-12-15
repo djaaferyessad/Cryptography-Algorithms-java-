@@ -16,7 +16,7 @@ import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 import javax.xml.crypto.dsig.DigestMethod;
 
-public class signateur {
+public class Digital_Signature_Using_Cipher_MessageDigest {
     public static void main(String[] args) throws NoSuchAlgorithmException, IOException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException {
         KeyPairGenerator keypairgen = KeyPairGenerator.getInstance("RSA");
         keypairgen.initialize(2048);
