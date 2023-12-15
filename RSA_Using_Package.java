@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
 import java.security.PrivateKey;
 import java.security.PublicKey;
 import javax.crypto.*;
-public class raspackages {
+public class RSA_Using_Package {
 public static void main(String[] args) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException {
     Scanner obj = new Scanner(System.in);
     KeyPairGenerator keygenrator = KeyPairGenerator.getInstance("RSA");
