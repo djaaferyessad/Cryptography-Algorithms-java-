@@ -1,4 +1,4 @@
-public class inverse {
+public class Multiply_Inverse {
     public static void main(String[] args) {
         System.out.println(inverse(3, 7));
 
