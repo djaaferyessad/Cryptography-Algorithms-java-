@@ -1,5 +1,5 @@
 import java.util.*;
-public class vignar {
+public class VigenarCipher {
     public static void main(String[] args)
     {
         Scanner myobj = new Scanner(System.in);
