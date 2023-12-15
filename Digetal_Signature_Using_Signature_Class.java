@@ -12,7 +12,7 @@ import java.security.PublicKey;
 import java.security.Signature;
 import java.security.SignatureException;
 
-public class Digetal_Signature_Using_Cipher_MessageDigest {
+public class Digetal_Signature_Using_Signature_Class {
     public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, SignatureException, IOException {
         KeyPairGenerator keypairgen = KeyPairGenerator.getInstance("RSA");
         keypairgen.initialize(2048);
