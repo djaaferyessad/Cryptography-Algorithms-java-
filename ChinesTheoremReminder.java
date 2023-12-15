@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CRT {
+public class ChinesTheoremReminder {
     public static void main(String[] args)
     {
         Scanner myobj = new Scanner(System.in);
