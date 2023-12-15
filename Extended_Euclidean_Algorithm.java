@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class extende{
+public class Extended_Euclidean_Algorithm{
     public static void main(String args[]){
         Scanner myobj = new Scanner(System.in);
         System.out.println("enter number 1 : ");
