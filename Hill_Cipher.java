@@ -1,5 +1,5 @@
 import java.util.*;
-public class hill {
+public class Hill_Cipher {
     public static void main(String[] args)
     {
         // note u can watch nesoacadimy hill cipher to unserstand more 
