@@ -3,7 +3,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.*;
 
-public class hash {
+public class Hash_SHA256 {
             public static void main(String[] args) throws NoSuchAlgorithmException {
                 Scanner obj = new Scanner(System.in);
                 System.out.println("Enter ur message : ");
