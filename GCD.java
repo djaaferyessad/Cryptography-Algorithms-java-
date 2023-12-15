@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pgcd {
+public class GCD {
     public static void main(String[] args)
     {
         Scanner myobj = new Scanner(System.in);
