@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.*;
 import java.io.*;
-public class cizar {
+public class CaesarCipher {
     public static void main(String[] args)
     {
         Scanner myobj = new Scanner(System.in);
