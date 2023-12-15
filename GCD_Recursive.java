@@ -1,5 +1,5 @@
 import java.util.Scanner ;
-public class pgcdMeth {
+public class GCD_Recursive {
     public static void main(String[] args)
     {
         Scanner myobj = new Scanner(System.in);
